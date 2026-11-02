@@ -22,3 +22,13 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Agent skills & customizations
+/.agents/
+/.agent/
+/.planning/
+/AGENTS.md
+/GEMINI.md
+/TASK_LOG.md
+
+
